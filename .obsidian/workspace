@@ -9,9 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ETH/Delegatecall.md",
-            "mode": "source",
-            "source": false
+            "file": "Contracts in ETH/msg vs tx.md",
+            "mode": "source"
           }
         }
       }
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ETH/Delegatecall.md",
+                "file": "Contracts in ETH/msg vs tx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +88,15 @@
   },
   "active": "cad18a0f53c84a4c",
   "lastOpenFiles": [
-    "ETH/Delegatecall.md",
-    "ETH/Data location.md",
-    "Dictionary.md",
-    "EVM.md",
-    "Faucet.md",
-    "nodes.md",
-    "ETH/evm.md",
-    "ETH/Gas.md",
-    "ETH/Errors.md",
-    "ETH/Events.md"
+    "Contracts in ETH/msg vs tx.md",
+    "Contracts in ETH/Gas.md",
+    "Contracts in ETH/EVM.md",
+    "Contracts in ETH/Events.md",
+    "Contracts in ETH/Errors.md",
+    "Contracts in ETH/Delegatecall.md",
+    "Contracts in ETH/Data location.md",
+    "Testing.md",
+    "Nodes.md",
+    "Faucet.md"
   ]
 }

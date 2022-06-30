@@ -1,3 +1,6 @@
+# Dictionary
+---
+
 EOA - Externally owned accounts - Пользовательские аккаунты
 ABI -  application binary interface 
 DAO - decentralized autonomous organization

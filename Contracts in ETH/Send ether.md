@@ -1,3 +1,6 @@
+# Send ether
+---
+
 **send()** = eth + 2300 gas + fail monitoring **DO NOT USE**
 
 ```Solidity

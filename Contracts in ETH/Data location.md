@@ -1,9 +1,12 @@
+# Data location
+---
+
 -   `storage` - variable is a state variable (store on blockchain)
 -   `memory` - variable is in memory and it exists while a function is being called
 -   `calldata` - special data location that contains function arguments
 
-
 ---
+
 **STORAGE**
 
 https://programtheblockchain.com/posts/2018/03/09/understanding-ethereum-smart-contract-storage/

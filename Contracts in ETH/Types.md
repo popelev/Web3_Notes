@@ -1,3 +1,6 @@
+# Types
+---
+
 ```go
 type                                 size in bytes
 

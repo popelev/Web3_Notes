@@ -1,3 +1,6 @@
+# Delegatecall
+---
+
 `delegatecall` is a low level function similar to `call`.
 
 When contract `A` executes `delegatecall` to contract `B`, `B`'s code is executed

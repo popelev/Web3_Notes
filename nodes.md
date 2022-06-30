@@ -1,4 +1,10 @@
-(alchemy)[https://www.alchemy.com/]
-(infura)[https://infura.io/)
+# Nodes
+---
 
-(geth)[https://geth.ethereum.org/)
+
+[alchemy](https://alchemy.com/)
+
+[infura](https://infura.io/)
+
+[geth](https://geth.ethereum.org/)
+

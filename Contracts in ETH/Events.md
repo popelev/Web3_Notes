@@ -1,3 +1,5 @@
+# Events
+---
 
 ```solidity
 // SPDX-License-Identifier: MIT

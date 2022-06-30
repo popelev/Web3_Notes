@@ -1,1 +1,4 @@
-(ETH and Token Faucet)[https://github.com/bokkypoobah/WeenusTokenFaucet]
+# Faucet
+---
+
+[ETH and Token Faucet](https://github.com/bokkypoobah/WeenusTokenFaucet)

@@ -1,3 +1,10 @@
+# Gas
+---
+
+[Opcodes 1](https://ethervm.io/#F4)
+
+[Opcodes 2](https://docs.google.com/spreadsheets/d/1n6mRqkBz3iWcOlRem_mO09GtSKEKrAsfO7Frgx18pNU/edit#gid=0)
+
 https://link.springer.com/content/pdf/10.1186/s13677-020-00176-9.pdf
 https://ethereum.github.io/yellowpaper/paper.pdf
 https://wiki.learnblockchain.cn/OPCODE_Gas.pdf

@@ -1,3 +1,6 @@
+# View vs Pure
+---
+
 `View` state will NOT be changed (READ ONLY).
 
 `Pure` state variable will NOT be changed or read.
