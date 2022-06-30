@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ETH/Data location.md",
+            "file": "ETH/Delegatecall.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ETH/Data location.md",
+                "file": "ETH/Delegatecall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "cad18a0f53c84a4c",
   "lastOpenFiles": [
-    "ETH/Data location.md",
     "ETH/Delegatecall.md",
-    "ETH/Errors.md",
-    "ETH/Events.md",
+    "ETH/Data location.md",
+    "Dictionary.md",
+    "EVM.md",
+    "Faucet.md",
+    "nodes.md",
     "ETH/evm.md",
     "ETH/Gas.md",
-    "ETH/mst vs tx.md",
-    "ETH/Send ether.md",
-    "ETH/Types.md",
-    "ETH/View Pure.md"
+    "ETH/Errors.md",
+    "ETH/Events.md"
   ]
 }
