@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Contracts in ETH/msg vs tx.md",
+            "file": "Nodes.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contracts in ETH/msg vs tx.md",
+                "file": "Nodes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "cad18a0f53c84a4c",
   "lastOpenFiles": [
+    "Nodes.md",
+    "Dictionary.md",
     "Contracts in ETH/msg vs tx.md",
     "Contracts in ETH/Gas.md",
     "Contracts in ETH/EVM.md",
@@ -95,8 +97,6 @@
     "Contracts in ETH/Errors.md",
     "Contracts in ETH/Delegatecall.md",
     "Contracts in ETH/Data location.md",
-    "Testing.md",
-    "Nodes.md",
-    "Faucet.md"
+    "Testing.md"
   ]
 }
